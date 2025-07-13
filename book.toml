@@ -3,8 +3,3 @@ authors = ["Pedroca"]
 language = "en"
 src = "src"
 title = "ICC104"
-
-[output.markdown]
-
-[output.html]
-site-url = "/mdBook/"
