@@ -7,3 +7,4 @@ title = "ICC104"
 [output.markdown]
 
 [output.html]
+site-url = "/mdBook/"
