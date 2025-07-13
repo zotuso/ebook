@@ -1,7 +1,6 @@
 ## A Hipervulnerabilidade dos Idosos no Ambiente Digital: Causas e Mecanismos de Prevenção
 
-A suscetibilidade dos idosos no ambiente virtual, particularmente em contextos de consumo e interação digital, deriva de uma **hipervulnerabilidade** que se manifesta em múltiplas dimensões. Embora o Código de Defesa do Consumidor (CDC) presuma a vulnerabilidade de todos os consumidores, a população idosa apresenta um agravamento dessa condição, tornando-a um grupo que necessita de **tutela jurídica mais diferenciada e qualificada** <cite>(MENDONÇA; FRATTARI; REZENDE, 2024)</cite>. 
-
+A suscetibilidade dos idosos no ambiente virtual, particularmente em contextos de consumo e interação digital, deriva de uma **hipervulnerabilidade** que se manifesta em múltiplas dimensões. Embora o Código de Defesa do Consumidor (CDC) presuma a vulnerabilidade de todos os consumidores, a população idosa apresenta um agravamento dessa condição, tornando-a um grupo que necessita de **tutela jurídica mais diferenciada e qualificada** <cite>(MENDONÇA; FRATTARI; REZENDE, 2024)</cite>.
 
 Essa suscetibilidade é multifatorial, complexa e se manifesta através de uma intersecção de fatores inerentes ao envelhecimento, lacunas no letramento digital e a natureza do ambiente virtual.
 
@@ -237,9 +236,7 @@ A pesquisa demonstra que essa não é uma realidade distante: 81% dos idosos ent
 
 Embora a maioria dos idosos (43 de 74) afirme que sua primeira reação a um contato suspeito é ignorar ou bloquear, um número significativo assume posturas de risco: 23 pedem ajuda a terceiros, 4 admitem não saber o que fazer e 1 responde para tentar entender a situação. Essas hesitações são janelas de oportunidade para golpistas, que exploram a boa-fé em narrativas como o golpe do falso parente — um golpe que 7 dos entrevistados já tinham ouvido falar.
 
-
 ---
-
 
 <style type="text/css">
 #T_74bc7 th {
@@ -298,7 +295,6 @@ Embora a maioria dos idosos (43 de 74) afirme que sua primeira reação a um con
 </table>
 
 * **Alvo Preferencial de Golpes e Crimes Virtuais:** A hipervulnerabilidade dos idosos os torna alvos preferenciais de criminosos. As estatísticas de crimes cibernéticos direcionados a eles têm aumentado devido à sua menor familiaridade com o mundo digital. Estão sujeitos a uma variedade de fraudes, incluindo golpes do falso parente, cartão clonado, extorsão, falso empréstimo, roubo de identidade e fraudes em compras online <cite>(GUEDES *et al*., 2023)</cite>. Em um estudo, 23 de 68 participantes idosos já haviam sido alvo de tentativas de golpes virtuais.
-
 
 A pesquisa confirma essa tese de forma alarmante. Embora 100% dos entrevistados já tenham ouvido falar sobre golpes virtuais, o conhecimento teórico não foi suficiente para protegê-los. Um total de 25 dos 74 idosos (33,8%) admitiu já ter sido vítima de um golpe ou crime virtual. Os tipos de golpes mais conhecidos por eles são Fraudes em compras online (20 menções), Roubo de identidade (17 menções) e Golpe de cartão clonado (16 menções), evidenciando os riscos atrelados diretamente ao consumo e finanças digitais.
 
@@ -416,9 +412,7 @@ A pesquisa confirma essa tese de forma alarmante. Embora 100% dos entrevistados 
 
 * **Declínio Fisiológico e Fragilidade Psíquica:** O processo natural de envelhecimento acarreta debilidades fisiológicas, incluindo a diminuição da capacidade cognitiva e o impacto no raciocínio. A fragilidade psíquica os torna mais suscetíveis a lidar com situações de pressão. Fatores como a perda de papéis sociais, o agravamento de doenças e a solidão podem transformá-los em alvos mais fáceis para abordagens insistentes de vendedores ou operadores de telemarketing <cite>(MENDONÇA; FRATTARI; REZENDE, 2024)</cite>.
 
-
 As consequências de ser vítima de um golpe vão além do financeiro, confirmando essa fragilidade. Dos 25 idosos que foram vítimas, os principais impactos relatados foram prejuízo financeiro (14 casos), mas também estresse/preocupação (8 casos) e uma profunda sensação de vulnerabilidade (3 casos), afetando diretamente seu bem-estar psíquico.
-
 
 <body>
     <p> </p>
@@ -497,7 +491,6 @@ As consequências de ser vítima de um golpe vão além do financeiro, confirman
     </tr>
   </tbody>
 </table>
-
 
 * **Consequências da Desigualdade Digital:** A diversidade da população brasileira implica que o acesso à educação tecnológica não é uniforme. A tentativa de padronizar a capacidade de contratação em ambiente virtual para todos, independentemente de sua realidade ou idade, viola o princípio da humanização do direito <cite>(MENDONÇA; FRATTARI; REZENDE, 2024)</cite>.
 
