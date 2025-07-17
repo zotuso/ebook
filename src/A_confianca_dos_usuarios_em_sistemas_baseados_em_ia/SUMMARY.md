@@ -1,13 +1,11 @@
 # A Confiança dos Usuários em Sistemas de IA
 
-## Membros
-
+Autores
 - David Prado
 - Lucas Moura
 - Thiago Rabello
 
 ## Sumário
-
 - [Introdução e Contextualização Teórica](introducao_contextualizacao.md)
 - [Justificativa](justificativa.md)
 - [Objetivos](objetivos.md)
