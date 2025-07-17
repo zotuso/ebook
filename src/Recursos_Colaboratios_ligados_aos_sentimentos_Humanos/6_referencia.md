@@ -1,3 +1,4 @@
+# Referências
 Souza, E. C., Costa, R., Gomes, G., Galvao, L., Lauschner, T., and Gadelha, B. (2024).
 Match musical: Avaliando a ux de recursos colaborativos no spotify. In Simpósio
 Brasileiro de Sistemas Colaborativos (SBSC), pages 98–111. SBC.
