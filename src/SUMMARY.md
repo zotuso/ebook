@@ -13,7 +13,7 @@
   - [Resultados AttrakDiff](./Recursos_Colaboratios_ligados_aos_sentimentos_Humanos/3_resultadoAttrakDiff.md)
   - [Entrevistas](./Recursos_Colaboratios_ligados_aos_sentimentos_Humanos/4_entrevista.md)
   - [Conclusão](./Recursos_Colaboratios_ligados_aos_sentimentos_Humanos/5_conclusao.md)
-  - [Referências](./Recursos_Colaboratios_ligados_aos_sentimentos_Humanos/6_referencias.md)
+  - [Referências](./Recursos_Colaboratios_ligados_aos_sentimentos_Humanos/6_referencia.md)
 
 - [A confiança dos usuários em Sistemas de IA](./A_confianca_dos_usuarios_em_sistemas_baseados_em_ia/SUMMARY.md)
 
