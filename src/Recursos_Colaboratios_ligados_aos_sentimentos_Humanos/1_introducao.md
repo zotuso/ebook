@@ -1,4 +1,4 @@
-# Recursos Colaboratios ligados aos sentimentos Humanos
+# Recursos Colaborativos ligados aos sentimentos Humanos
 
 Autores:
 - João Vitor Teixeira Costa
