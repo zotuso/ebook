@@ -34,3 +34,13 @@
   - [Análise de Dados](./A_Mobilidade_Urbana_dos_Jovens_de_Manaus/Análise%20dos%20Dados.md)
   - [Conclusão](./A_Mobilidade_Urbana_dos_Jovens_de_Manaus/Conclusão.md)
   - [Referências](./A_Mobilidade_Urbana_dos_Jovens_de_Manaus/Referências.md)
+
+- [Influencia da internet no consumismo](./Influência_da_internet_no_consumismo/0_Introducao.md)
+
+  - [Contextualização Teórica](./Influência_da_internet_no_consumismo/1_Contextualizacao_teorica.md)
+  - [Objetivos](./Influência_da_internet_no_consumismo/2_Objetivos.md)
+  - [Metas e Cronograma](./Influência_da_internet_no_consumismo/3_Meta_Cronograma.md)
+  - [Estategia](./Influência_da_internet_no_consumismo/4_Estrategia.md)
+  - [Resultados](./Influência_da_internet_no_consumismo/5_Resultados.md)
+  - [Conclusão](./Influência_da_internet_no_consumismo/6_Conclusão.md)
+  - [Referencias](./Influência_da_internet_no_consumismo/7_referencias.md)
