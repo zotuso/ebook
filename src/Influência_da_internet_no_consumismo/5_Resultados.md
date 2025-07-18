@@ -20,7 +20,7 @@ Gráfico: Influencia na Compra.
 
 A opinião sobre um produto é altamente levada em consideração na hora de se fazer uma compra online, assim como é possível observar na grande quantidade dos influencer digitais e suas propagandas, seja por meio de stories ou a narrativa de agregar o produto no cotidiano, passando a impressão da necessidade daquele produto;
 
-![Gráfico Plataformas e Redes](imagens/grafico_redes_sociais.png)
+![Gráfico Plataformas e Redes](imagens/grafico_rede_sociais.png)
 
 Gráfico: Plataformas e Rede Social.
 
