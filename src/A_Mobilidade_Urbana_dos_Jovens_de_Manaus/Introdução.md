@@ -1,0 +1,14 @@
+
+# Introdução
+
+A mobilidade urbana é um dos temas mais prementes e complexos das cidades contemporâneas. Em Manaus, uma metrópole com desafios geográficos e demográficos únicos, a questão da mobilidade assume contornos ainda mais críticos, especialmente para a população jovem. A ascensão da era digital trouxe consigo uma revolução nos transportes, com aplicativos como Uber e 99 emergindo como protagonistas de uma nova forma de se locomover. Esses serviços, que prometem agilidade, conforto e segurança, rapidamente se popularizaram, tornando-se parte do cotidiano de muitos jovens.
+
+No entanto, a narrativa de que os aplicativos de transporte são a panaceia para os problemas de mobilidade urbana merece um escrutínio mais aprofundado. A conveniência oferecida por esses serviços muitas vezes mascara uma série de desafios e externalidades negativas, como o aumento do congestionamento, a precarização do trabalho dos motoristas e a dependência de um modelo de negócio que prioriza o lucro em detrimento da acessibilidade e da sustentabilidade. Além disso, a crescente dependência de aplicativos pode desviar a atenção e os investimentos de soluções de transporte público de massa, que são essenciais para garantir o direito à cidade para todos os cidadãos.
+
+Este relatório se propõe a realizar uma análise crítica e baseada em dados sobre o impacto dos aplicativos de transporte na mobilidade dos jovens de Manaus. A partir de uma pesquisa realizada com 34 jovens, com idades entre 18 e 28 anos, buscaremos desconstruir a ideia de que os aplicativos são a solução definitiva para a mobilidade urbana. Argumentaremos que, embora esses serviços possam ser úteis como um complemento ao sistema de transporte, eles não resolvem os problemas estruturais da mobilidade e, em alguns casos, podem até agravá-los.
+
+A análise se concentrará em diversos aspectos da experiência dos jovens com os aplicativos de transporte, como a frequência de uso, os gastos mensais, a percepção sobre a tarifa dinâmica, a importância do preço e do tempo na escolha do modal, a segurança e a confiabilidade dos serviços. Também examinaremos a relação entre o uso de aplicativos e a insatisfação com o transporte público, buscando compreender como as deficiências do sistema de ônibus influenciam as escolhas de mobilidade dos jovens.
+
+Ao final, esperamos oferecer uma visão mais nuançada e complexa sobre o papel dos aplicativos de transporte na mobilidade urbana, contribuindo para um debate mais informado e qualificado sobre o futuro das cidades. Acreditamos que a construção de uma mobilidade urbana mais justa, sustentável e eficiente passa, necessariamente, por um investimento maciço no transporte público de qualidade, integrado a outras modalidades de transporte, como a bicicleta e a caminhada, e regulado de forma a garantir o interesse público acima dos interesses privados.
+
+
